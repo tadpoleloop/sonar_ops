@@ -1,0 +1,10 @@
+name: sonar-ops
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - tqdm
+  - ipywidgets
+  - voila
